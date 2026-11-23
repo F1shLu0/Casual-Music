@@ -1,0 +1,20 @@
+﻿# IDE / local artifacts
+.trae-html-share-packages/
+.screenshots/
+.trae/
+
+# Local research archive: third-party copyrighted manuals, not redistributable
+docs/fl-studio-web/references/raw/
+
+# Local reference library: third-party repositories and sheet music
+music-skills/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Generated demo output
+open-full-instrumental.html
+star-sea-instrumental.html
